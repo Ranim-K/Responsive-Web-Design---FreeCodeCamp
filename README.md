@@ -6,7 +6,6 @@ This repository contains all the projects I built while completing the **Respons
 ### 🏗 Practice Projects
 1️⃣ Cat Photo App  
 2️⃣ Cafe Menu  
-3️⃣ Marker Set  
 ...  
 
 ### 🏆 Certification Projects
