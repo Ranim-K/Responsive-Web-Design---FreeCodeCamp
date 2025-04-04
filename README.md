@@ -8,12 +8,11 @@ This repository contains all the projects I built while completing the **Respons
 2️⃣ Cafe Menu  
 3️⃣ Colored Markers
 
+
 ...  
 
 ### 🏆 Certification Projects
 ✅ Survey Form  
-✅ Tribute Page  
-✅ Technical Documentation Page  
 ...  
 
 ## 🚀 How to Use

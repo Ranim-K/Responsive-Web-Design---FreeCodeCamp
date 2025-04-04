@@ -1,0 +1,96 @@
+body {
+    font-family: Arial;
+    background-image: url("https://media-hosting.imagekit.io/87476decd0cd401e/New%20Project.png?Expires=1838149951&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=l557VTdSXrEvaAn-LGEbs-i6k64G0a5zmow5NfRiUj8ZUlMzw7OPOzGQ466yTaTMvsPscowe2nTq4iVKV-R3HG5wWtuzwM-mOj4Od3LZhuhZsS9Tkdcg~hEPGnvgo3~V7TKMOiZ9jrqOtccVBOQxbaW82uqmfy6TfmZr2RpKRvXKlMjM8oa3HV7Rx8uGton~9DWFwtKNjsKZvGbDYbfdT0CBGCF00wri-lQmKdKk7B4wJia5zva9zGwtIOujNj8tMjt~OpRQwiP4TH4eTt0ffCwEFNv~AgtCycupIowSI~TTKXsmSXAus~Td~d0aeg9PUNdsRLmElj1GhR0mAuCJLg__");
+}
+
+h1, p {
+    text-align: center;
+    color: white;
+}
+
+p {
+    color: rgba(242, 234, 234, 0.805);
+}
+
+form {
+    max-width: 80%;
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #282846;
+    color: white;
+    padding: 25px;
+    border-radius: 10px;
+    font-size: 1.2em;
+}
+
+form label {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    line-height: 30px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+select{
+    width: 100%;
+    min-height: 2em;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+form select {
+    height: 3em;
+}
+
+input[type="radio"] {
+    margin: 5px; /* Optional: Adds space below the radio button */
+}
+  
+input[type="checkbox"]  {
+    margin-right: 10px;  
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.checkboxes label{
+    display: block;
+    margin-bottom: 0;
+}
+
+form textarea {
+    width: 100%;
+    height: 80px; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+form button {
+    display: block;
+}
+
+button {
+    color: white;
+    height: 3em; 
+    max-height:3em;
+    width: 100%;
+    background-color: #37af65;
+    margin-top: 20px;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    border: 2px solid #504ee9; /* Border color */
+    background: white;
+    display: inline-block;
+  }
+  
+input[type="checkbox"]:checked {
+background: #504ee9; /* Fill color when checked */
+}
+  
